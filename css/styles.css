@@ -344,6 +344,7 @@ img {
   padding: 1rem;
   color: var(--blanco);
   text-transform: uppercase;
+  letter-spacing: 0.1rem;
 }
 
 .correcto {
@@ -352,4 +353,5 @@ img {
   padding: 1rem;
   color: var(--blanco);
   text-transform: uppercase;
+  letter-spacing: 0.1rem;
 }
