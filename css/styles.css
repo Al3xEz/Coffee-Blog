@@ -337,3 +337,19 @@ img {
   padding: 1rem;
   border: 1;
 }
+
+.error {
+  text-align: center;
+  background-color: rgb(185, 0, 0);
+  padding: 1rem;
+  color: var(--blanco);
+  text-transform: uppercase;
+}
+
+.correcto {
+  text-align: center;
+  background-color: rgb(0, 185, 62);
+  padding: 1rem;
+  color: var(--blanco);
+  text-transform: uppercase;
+}
