@@ -1,3 +1,3 @@
 # Coffee-Blog
 My Third Project
-https://solanocafe.netlify.app/
+https://solano-cafe.netlify.app/
